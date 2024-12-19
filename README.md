@@ -7,7 +7,7 @@
 
 1. Скачиваем весь проект архивом или клонируем репозиторий, как он есть.
 
-2. Счкачиваем датасет по вот этой ссылке https://universe.roboflow.com/yolotest-vzrks/person-mm3cw/dataset/2
+2. Счкачиваем датасет по вот этой ссылке https://universe.roboflow.com/stars-j6pl1/disabled-ppl
 . И извлекаем его в папку datasets.
 
 3. Открываем файл hackaton1_mobility.ipynb - он был сделан как Jupyter Notebook with kernel - Python 3 (ipykernel). На сервисе Google Colab не проверялся, рекомендуется открыть его в Jupyter.
